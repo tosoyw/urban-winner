@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/urban-winner/static/css/main.dc7afd2a.css",
+    "main.js": "/urban-winner/static/js/main.1464d0e0.js",
+    "index.html": "/urban-winner/index.html",
+    "main.dc7afd2a.css.map": "/urban-winner/static/css/main.dc7afd2a.css.map",
+    "main.1464d0e0.js.map": "/urban-winner/static/js/main.1464d0e0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dc7afd2a.css",
+    "static/js/main.1464d0e0.js"
+  ]
+}
